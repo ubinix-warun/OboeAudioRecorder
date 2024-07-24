@@ -15,15 +15,7 @@
 
 ![Audio Recorder Logo](https://github.com/Dimowner/AudioRecorder/blob/master/app/src/releaseConfig/res/mipmap-xxxhdpi/audio_recorder_logo.png)
 
-# Audio Recorder
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.dimowner.audiorecorder/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder)
-
+# Audio Recorder (PoC: Oboe framework + Java 21)
 
 <p><b>Audio Recorder</b> is your go-to app for seamless audio recording. Whether you’re capturing important moments or creating content, Audio Recorder got you covered. Here’s what makes our app stand out:</p>
 
